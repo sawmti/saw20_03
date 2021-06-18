@@ -1,6 +1,6 @@
 [![Continuous integration for SAW template](https://github.com/sawmti/saw20_03/actions/workflows/ci.yml/badge.svg)](https://github.com/sawmti/saw20_03/actions/workflows/ci.yml)
 
-# Project structure - SAW 20_03
+# Project structure - Group SAW 20_03
 
 This repository contains a simple skeleton of a web page which contains a REST service implemented in Node and a simple Web client that invokes the service. 
 
